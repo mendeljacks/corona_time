@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(173, 173, 173);
+    display: grid;
+    place-items: center;
+    height: 100vh;
+}
+
+.container {
+    background-color: rgb(207, 207, 207) !important;
+    border-radius: 10px;
+    display: grid;
+    gap: 20px
+}
